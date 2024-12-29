@@ -1,0 +1,1 @@
+{"version":3,"file":"BotClient.d.ts","sourceRoot":"","sources":["../../src/structures/BotClient.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,qBAAqB,CAAC;AACrD,OAAO,EAAE,aAAa,EAAE,MAAM,YAAY,CAAC;AAE3C,qBAAa,SAAU,SAAQ,cAAc;gBAC/B,OAAO,EAAE,aAAa;IAI3B,KAAK,IAAI,IAAI;CAGrB"}
